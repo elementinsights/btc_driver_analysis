@@ -64,13 +64,13 @@ pip install -r requirements.txt
 ### Rewrite the entire sheet
 
 ``` bash
-python app.py
+python scripts/script_name.py
 ```
 
 ### Append only new rows
 
 ``` bash
-python app.py --append
+python scripts/script_name.py --append
 ```
 
 ## Output
