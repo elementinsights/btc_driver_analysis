@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment & config files
+.env
+*.json
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Output files
+rhodl_daily.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other
+.DS_Store
